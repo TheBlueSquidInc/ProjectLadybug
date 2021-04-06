@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">SAH Toolkit</string>
+    <string name="main_act_title">#StopAsianHate (Unoffical toolkit) <font fgcolor='#FFFF0000'>Developer assumes no liability!</font></string>
+    <string name="donate1">Donate to the developer!</string>
+    <string name="donate2">Please donate so I can make more apps! :)</string>
+
+
+    <string name="cardview0_textview0">Whats new!</string>
+    <string name="cardview0_textview1">Click here to find latest #StopAsianHate news(EXTERNAL LINK)</string>
+    <string name="cardview1_textview0">Free toolkit!</string>
+    <string name="cardview1_textview1">Click here for the #StopAsianHate unoffical toolkit</string>
+
+
+    <string name="cardview2_textview0">What is this app?</string>
+    <string name="cardview2_textview1">Find out more info about the movement and this app!</string>
+    <string name="cardview3_textview0">Intervention training</string>
+    <string name="cardview3_textview1">Learn ways protect yourself and others!</string>
+
+    <string name="cardview4_textview0">Report anti-Asian crimes!</string>
+    <string name="cardview4_textview1">Reporting is key! (NON-EMERGENCY)</string>
+
+
+    <string name="cardview5_textview0">American Asians are being targeted unfairly!</string>
+    <string name="cardview5_textview1">Since 2021 began, 30+ American citzens of Asian decent have been targeted in a wave of anti-Asian motivated attacks.</string>
+    <string name="cardview6_textview0">Stop the COVID19 misinformation campaign in America!</string>
+    <string name="cardview6_textview1">Asian Americans being assaulted and blamed for the COVID19 pandemic. This is un-acceptable. American citizens must act to stop these atrocious, disgusting, ignorant crimes!</string>
+    <string name="cardview7_textview0">The #StopAsianHate movement begins!</string>
+    <string name="cardview7_textview1">This app was made to raise awareness and provide FACTUAL info! Use #StopAsianHate to share your stories and support over social media. This helps tremendously to shine a light on the issue!</string>
+
+    <string name="cardview8_textview0">Defending yourself against hate speech!</string>
+    <string name="cardview8_textview1">Offline guide to defending yourself against anti-Asian attacks!</string>
+
+    <string name="cardview9_textview0">Defending others against hate speech!</string>
+    <string name="cardview9_textview1">Together a crowd can help defend against anti-Asian hate speech!</string>
+
+    <string name="cardview10_textview0">Train online to fight hate speech! </string>
+    <string name="cardview10_textview1">Eroll in bystander training! (EXTERNAL LINK)</string>
+
+    <string name="cardview11_textview0">Defending yourself against anti-Asian attacks!</string>
+    <string name="cardview11_textview1">Offline guide - ENGLISH ONLY</string>
+
+    <string name="cardview12_textview0">Defending yourself against anti-Asian attacks!</string>
+    <string name="cardview12_textview1">Online guide - Multilingual - EXTERNAL LINK</string>
+
+    <string name="cardview13_textview0">Defending others against anti-Asian attacks!</string>
+    <string name="cardview13_textview1">Offline guide - ENGLISH ONLY</string>
+
+    <string name="cardview14_textview0">Defending others against anti-Asian attacks!</string>
+    <string name="cardview14_textview1">Online guide - Multilingual - EXTERNAL LINK</string>
+
+
+    <string name="cardview15_textview0">Safety Tips for Those Experiencing Hate</string>
+    <string name="cardview15_textview1">5 Things to Consider When Experiencing Hate</string>
+    <string name="cardview15_textview2">1. Safety First: Trust your instincts and assess your surroundings. If you feel unsafe and you are able to, leave the area.</string>
+    <string name="cardview15_textview3">2. Stay Calm: Take a deep breath, limit eye-contact, and maintain neutral body language.</string>
+    <string name="cardview15_textview4">3. Speak Out (If you can do so safely): In a calm and firm voice establish physical boundaries, and denounce their behavior and comments.</string>
+    <string name="cardview15_textview5">4. Seek Immediate Support: Ask bystanders for support or intervention.</string>
+    <string name="cardview15_textview6">5. Seek Emotional Support: Once you feel safe, take time to recover and reach out to someone to talk about what happened. Remember this is not your fault, and you are not alone.</string>
+
+    <string name="cardview16_textview0">Safety Tips for Those Witnessing Hate</string>
+    <string name="cardview16_textview1">5 Ways to Help If You Witness Hate</string>
+    <string name="cardview16_textview2">1. Take Action: Approach the targeted person, introduce yourself, and offer support.</string>
+    <string name="cardview16_textview3">2. Actively Listen: Ask before taking any actions and respect the targeted person’s wishes. Monitor the situation if needed.</string>
+    <string name="cardview16_textview4">3. Ignore Attacker: Using your discretion, attempt to calm the situation by using your voice, body language, or distractions.</string>
+    <string name="cardview16_textview5">4. Accompany: If the situation escalates, invite the targeted person to join you in leaving.</string>
+    <string name="cardview16_textview6">5. Offer Emotional Support: Help the targeted person by asking how they’re feeling. Assist them in figuring out what they want to do next.</string>
+
+
+</resources>
